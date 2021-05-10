@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevourMono", "DevourMono\DevourMono.csproj", "{BDFE5081-BAB4-479E-A006-026B5D4BBD52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFE5081-BAB4-479E-A006-026B5D4BBD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFE5081-BAB4-479E-A006-026B5D4BBD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFE5081-BAB4-479E-A006-026B5D4BBD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFE5081-BAB4-479E-A006-026B5D4BBD52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28C082D-76EC-4F33-A7C1-05482482C567}
+	EndGlobalSection
+EndGlobal
